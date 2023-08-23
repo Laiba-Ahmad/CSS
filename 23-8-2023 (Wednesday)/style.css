@@ -1,11 +1,9 @@
 body{
     background-color: black;
 }
-img{
-    margin: 50px;
-}
-.lion1{
-margin-left: 900px;
+
+.lion2{
+margin-left: 1200px;
 }
 .p{
     color: white;
@@ -16,6 +14,10 @@ margin-left: 900px;
     font-size: 70px;   
 }
 p{
+    color: white;
+    font-size: 30px;   
+}
+span{
     color: white;
     font-size: 30px;   
 }
