@@ -7,11 +7,15 @@ img{
 .lion1{
 margin-left: 900px;
 }
-p{
+.p{
     color: white;
     font-size: 50px;   
 }
-p:hover{
+.p:hover{
     color: white;
     font-size: 70px;   
+}
+p{
+    color: white;
+    font-size: 30px;   
 }
